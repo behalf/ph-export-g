@@ -2,8 +2,8 @@ var img;
 
 // set up unit spacing and canvas size
 
-var canvasWidth = 100;
-var canvasHeight = 100;
+var canvasWidth = 1200;
+var canvasHeight = 750;
 var logoHeight = 30.237; 
 var calcUnit = logoHeight*0.375;
 
