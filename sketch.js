@@ -9,7 +9,7 @@ var calcUnit = logoHeight*0.375;
 
 // load images
 function preload() {
-  img = loadImage('data/blobs3.png');
+  img = loadImage('data/menu.1029-radial.png');
 }
 
 function setup() {
