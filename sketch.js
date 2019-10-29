@@ -4,7 +4,7 @@ var img;
 
 var canvasWidth = 1200;
 var canvasHeight = 750;
-var logoHeight = 45; 
+var logoHeight = 30.237; 
 var calcUnit = logoHeight*0.375;
 
 // load images
